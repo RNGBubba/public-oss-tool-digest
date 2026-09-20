@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "ticket_id": "t_854aa3c8c302",
+  "code_sha": "286d0a0c96f5af716b8a37a8f13e111a5b2e4db4",
+  "command": "python -m unittest -v test_oss_digest.py",
+  "exit_code": 0,
+  "artifact": {
+    "path": "OSS_DIGEST.md",
+    "sha256": "1ad66ea9417915db4cbd6c80a1c932f275482b4c50e4b045cb35219e47d3a22b",
+    "bytes": 1792
+  },
+  "recorded_at": "2026-09-20T23:39:31+00:00"
+}
